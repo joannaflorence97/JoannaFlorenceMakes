@@ -34,7 +34,7 @@
       <!-- {{ .Content }} -->
       {{ range partial "getfeatured.html" 3 }}
         <div class="col-lg-4 col-md-6 portfolio-item filter-{{ .Params.tag }}">
-          <img src="img/{{ .Params.image }}" class="img-fluid" alt="">
+          <a href="{{ .Page.Permalink }}"><img src="img/{{ .Params.image }}" class="img-fluid" alt=""></a>
           <div class="portfolio-info">
               <h4>{{ .Params.title }}</h4>
               <p>{{ .Params.subtitle }}</p>
