@@ -6,4 +6,6 @@ categories:
   - blog
 ---
 
-This is an example post for my blog.
+This is an ~~example~~ post for my blog.
+
+---
