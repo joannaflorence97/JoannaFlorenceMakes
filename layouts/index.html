@@ -4,13 +4,14 @@
 <div id="aboutme">
   <div class="container ">
     <div class="row">
-    <div class="col col-9 text-muted">
-      Hi I'm Jo. I like to make things. Make things very good!
-
-    </div>
-    <div class="col col-2">
-      <img src="/img/jo.jpg" style="width:100%"/>
-    </div>
+      {{ with .Site.GetPage "welcomemessage.md" }}
+      <div class="col col-9 text-muted">
+        {{.Content}}
+      </div>
+      <div class="col col-2">
+        <img src="{{ .Param "image" }}" style="width:100%"/>
+      </div>
+    {{ end }}
     </div>
   </div>
 
