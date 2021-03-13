@@ -1,7 +1,7 @@
 ---
-title: "green day"
-subtitle: "album artwork"
-date: 2021-02-23T13:42:24Z
+title: "She's a rebel"
+subtitle: "Green Day Album Art"
+date: 2021-01-31T13:42:24Z
 draft: false
 featured: true
 image: "IMG_0004.jpg"
@@ -10,4 +10,4 @@ categories:
   - portfolio
 ---
 
-Rock on!
+"She’s a symbol of resistance, and she’s holding on my heart like a hand grenade"

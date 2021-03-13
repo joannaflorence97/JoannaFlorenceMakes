@@ -1,7 +1,7 @@
 ---
-title: "i love penguins"
-subtitle: "penguins i do"
-date: 2021-02-23T13:42:24Z
+title: "Galápagos penguin"
+subtitle: "Endangered Species Challenge"
+date: 2021-02-27T13:42:24Z
 draft: false
 featured: true
 image: "IMG_8745.jpg"
@@ -10,4 +10,6 @@ categories:
   - portfolio
 ---
 
-I made a penguin, yay.
+I think this is my favourite thing I’ve ever embroidered!
+
+This Galápagos penguin was designed and stitched by me for the February 2021 Endangered Species Challenge by [@rabbithatdesigns](https://www.instagram.com/rabbithatdesigns/).
