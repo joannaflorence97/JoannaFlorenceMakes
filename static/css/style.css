@@ -59,6 +59,7 @@ p {
   line-height: 28px;
 }
 
+
 ::-moz-selection {
   background: #b8a07e;
   color: #fff;
@@ -201,7 +202,7 @@ p {
   line-height: 1;
   font-weight: 600;
   letter-spacing: 1px;
-  font-family: "Playfair Display", sans-serif;
+  font-family: "Dancing Script", sans-serif;
   font-style: italic;
 }
 
@@ -574,7 +575,7 @@ p {
 #services {
   background: #f7f7f7;
   position: relative;
-  padding-bottom: 80px;
+  padding: 30px 0;
 }
 
 .services-block span {
