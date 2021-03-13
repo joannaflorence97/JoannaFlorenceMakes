@@ -6,6 +6,8 @@ draft: false
 featured: true
 image: "IMG_8616.jpg"
 tag: "embroidery"
+categories:
+  - portfolio
 ---
 
 Earl grey, no thanks!

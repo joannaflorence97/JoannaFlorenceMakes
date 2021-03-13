@@ -6,6 +6,8 @@ draft: false
 featured: true
 image: "IMG_8745.jpg"
 tag: "embroidery"
+categories:
+  - portfolio
 ---
 
 I made a penguin, yay.

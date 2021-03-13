@@ -6,6 +6,8 @@ draft: false
 featured: true
 image: "IMG_0004.jpg"
 tag: "embroidery"
+categories:
+  - portfolio
 ---
 
 Rock on!

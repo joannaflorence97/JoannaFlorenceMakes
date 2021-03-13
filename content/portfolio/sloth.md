@@ -6,6 +6,8 @@ draft: false
 featured: true
 image: "IMG_8669.jpg"
 tag: "embroidery"
+categories:
+  - portfolio
 ---
 
 A magazine told me to do this so I did.
