@@ -5,6 +5,8 @@ date: 2021-02-27T13:42:24Z
 draft: false
 featured: true
 image: "IMG_8745.jpg"
+detailImages:
+  - "IMG_8745.jpg"
 tag: "embroidery"
 categories:
   - portfolio

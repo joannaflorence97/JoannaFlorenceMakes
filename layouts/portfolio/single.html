@@ -26,17 +26,11 @@
         <div class="portfolio-details-slider swiper-container">
         <div class="swiper-wrapper align-items-center">
 
-            <div class="swiper-slide">
-            <img src="/img/IMG_8745.jpg" alt="">
-            </div>
-
-            <div class="swiper-slide">
-            <img src="/img/IMG_8898.jpg" alt="">
-            </div>
-
-            <div class="swiper-slide">
-            <img src="/img/IMG_8616.jpg" alt="">
-            </div>
+            {{ range .Params.detailImages }}
+                <div class="swiper-slide">
+                    <img src="/img/{{ . }}" alt="">
+                </div>
+            {{ end }}
 
         </div>
         <div class="swiper-pagination"></div>
