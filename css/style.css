@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background: #ffffff;
+  background: #f7f7f7;
   color: #898989;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
@@ -21,6 +21,9 @@ body {
   padding: 0;
   box-sizing: border-box;
   margin-top:70px;
+}
+main {
+  background:white;
 }
 
 h1, h2, h3, h4, h5, h6 {
