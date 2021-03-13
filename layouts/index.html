@@ -46,8 +46,8 @@
           <div class="portfolio-info">
               <h4>{{ .Params.title }}</h4>
               <p>{{ .Params.subtitle }}</p>
-              <a href="img/{{ .Params.image }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="img/{{ .Params.image }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="{{ .Params.title }}"><i class="bx bx-plus"></i></a>
+              <a href="{{ .Page.Permalink }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
           </div>
         </div>
       {{ end }}
