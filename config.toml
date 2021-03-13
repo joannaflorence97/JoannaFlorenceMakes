@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "en-gb"
 title = "JoannaFlorenceMakes"
-disableKinds = ["taxonomy", "taxonomyTerm"]
 [markup]
   [markup.goldmark.renderer]
     unsafe=true
