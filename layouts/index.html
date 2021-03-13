@@ -37,35 +37,18 @@
 
     <div class="row portfolio-container">
 
-      <div class="col-lg-4 col-md-6 portfolio-item filter-embroidery">
-        <img src="img/IMG_8616.jpg" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>App 1</h4>
-          <p>App</p>
-          <a href="img/IMG_8616.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-          <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+      <!-- {{ .Content }} -->
+      {{ range partial "getfeatured.html" 3 }}
+        <div class="col-lg-4 col-md-6 portfolio-item filter-">
+          <img src="img/{{ .Params.image }}" class="img-fluid" alt="">
+          <div class="portfolio-info">
+              <h4>{{ .Params.title }}</h4>
+              <p>{{ .Params.subtitle }}</p>
+              <a href="img/{{ .Params.image }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+          </div>
         </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-embroidery">
-        <img src="img/IMG_8745.jpg" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>A penguin</h4>
-          <p>Web</p>
-          <a href="img/IMG_8745.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-          <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-embroidery">
-        <img src="img/IMG_8898.jpg" class="img-fluid" alt="">
-        <div class="portfolio-info">
-          <h4>App 2</h4>
-          <p>App</p>
-          <a href="img/IMG_8898.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-          <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-        </div>
-      </div>
+      {{ end }}
 
     </div>
 
