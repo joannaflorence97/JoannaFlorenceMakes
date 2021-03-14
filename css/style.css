@@ -1462,3 +1462,10 @@ blockquote {
     margin-right: 0;
   }
 }
+
+span.contact-large {
+  font-size: 1.5em;
+  line-height: 1.75;
+  font-weight: 600;
+  color: #b7a17e;
+}
