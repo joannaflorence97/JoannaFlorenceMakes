@@ -5,6 +5,6 @@ draft: false
 image: "/img/jo.jpg" 
 ---
 
-<span class="four-words">DESIGN . ART . VISION . EMBROIDERY</span>
+<span class="four-words">DESIGN . EMBROIDERY . SEWING . CRAFTS</span>
 
 <span class="intro-handwritten">by Joanna Florence</span>
