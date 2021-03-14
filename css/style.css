@@ -1481,3 +1481,12 @@ span.contact-large {
   font-family: 'Playfair Display', serif;
   font-size: xx-large;
 }
+
+.intro-handwritten {
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-family: "Dancing Script", sans-serif;
+  font-style: italic;
+  font-size: x-large;
+  color: #b7a17e;
+}
