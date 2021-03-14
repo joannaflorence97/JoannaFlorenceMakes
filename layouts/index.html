@@ -1,28 +1,11 @@
 {{ define "main" }}
 
-<!-- ======= welcome Section ======= -->
-<div id="aboutme">
-  <div class="container ">
-    <div class="row">
-      {{ with .Site.GetPage "welcomemessage.md" }}
-      <div class="col col-9 text-muted">
-        {{ .Content }}
-      </div>
-      <div class="col col-2">
-        <img src="{{ .Params.image }}" style="width:100%"/>
-      </div>
-    {{ end }}
-    </div>
-  </div>
-
-</div><!-- End welcome Section -->
-
 <!-- ======= Portfolio Section ======= -->
 <div id="portfolio" class="paddsection">
 
   <div class="container">
     <div class="section-title text-center">
-      <h2>My Makes</h2>
+      <h2>Makes</h2>
     </div>
   </div>
 
@@ -33,6 +16,7 @@
         <ul id="portfolio-flters">
           <li data-filter="*" class="filter-active">All</li>
           <li data-filter=".filter-embroidery">Embroidery</li>
+          <li data-filter=".filter-sewing">Sewing</li>
         </ul>
       </div>
     </div>
@@ -40,7 +24,7 @@
     <div class="row portfolio-container">
 
       <!-- {{ .Content }} -->
-      {{ range partial "getfeatured.html" 3 }}
+      {{ range partial "getfeatured.html" 6 }}
         <div class="col-lg-4 col-md-6 portfolio-item filter-{{ .Params.tag }}">
           <a href="{{ .Page.Permalink }}"><img src="img/{{ .Params.image }}" class="img-fluid" alt=""></a>
           <div class="portfolio-info">
