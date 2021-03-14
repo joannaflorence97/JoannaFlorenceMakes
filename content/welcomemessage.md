@@ -7,4 +7,4 @@ image: "/img/jo.jpg"
 
 <span class="four-words">DESIGN . ART . VISION . EMBROIDERY</span>
 
-welcome to the wonderful world of Jo
+<span class="intro-handwritten">by Joanna Florence</span>
