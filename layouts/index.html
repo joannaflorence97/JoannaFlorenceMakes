@@ -26,7 +26,7 @@
       <!-- {{ .Content }} -->
       {{ range partial "getfeatured.html" 6 }}
         <div class="col-lg-4 col-md-6 portfolio-item filter-{{ .Params.tag }}">
-          <a href="{{ .Page.Permalink }}"><img src="img/{{ .Params.image }}" class="img-fluid" alt=""></a>
+          <a href="{{ .Page.Permalink }}"><div class="portfolio-item-aspect" style="background-image: url(img/{{ .Params.image }});"></div></a>
           <div class="portfolio-info">
               <h4>{{ .Params.title }}</h4>
               <p>{{ .Params.subtitle }}</p>
