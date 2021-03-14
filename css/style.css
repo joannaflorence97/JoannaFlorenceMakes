@@ -1470,9 +1470,14 @@ span.contact-large {
   color: #b7a17e;
 }
 
+.portfolio-item-aspect {
+  width: 100%;
+  padding-top: 100%; /* 1:1 Aspect Ratio */
+  position: relative; /* If you want text inside of it */
+  background-size: cover;
+}
 
-.four-words{
-    font-family: 'Playfair Display', serif;
-
+.four-words {
+  font-family: 'Playfair Display', serif;
   font-size: xx-large;
 }
