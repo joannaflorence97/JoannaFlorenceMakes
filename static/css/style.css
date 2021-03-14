@@ -1476,3 +1476,8 @@ span.contact-large {
   position: relative; /* If you want text inside of it */
   background-size: cover;
 }
+
+.four-words {
+  font-family: 'Playfair Display', serif;
+  font-size: xx-large;
+}
