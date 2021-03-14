@@ -1490,3 +1490,8 @@ span.contact-large {
   font-size: x-large;
   color: #b7a17e;
 }
+
+.img-header {
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
