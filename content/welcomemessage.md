@@ -5,4 +5,6 @@ draft: false
 image: "/img/jo.jpg" 
 ---
 
-Hi there, I'm Jo. I like to make things. Make things very good!
+<span class="four-words">DESIGN . ART . VISION . EMBROIDERY</span>
+
+welcome to the wonderful world of Jo

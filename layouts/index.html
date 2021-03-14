@@ -1,5 +1,20 @@
 {{ define "main" }}
 
+<!-- ======= welcome Section ======= -->
+<div id="aboutme">
+  <div class="container ">
+    <div class="row">
+      {{ with .Site.GetPage "welcomemessage.md" }}
+      <div class="col col-12 text-muted text-center">
+        {{ .Content }}
+      </div>
+     
+    {{ end }}
+    </div>
+  </div>
+
+</div><!-- End welcome Section -->
+
 <!-- ======= Portfolio Section ======= -->
 <div id="portfolio" class="paddsection">
 
