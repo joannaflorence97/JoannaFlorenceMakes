@@ -76,7 +76,7 @@
                     <div class="journal-txt">
                       <h4><a href="blog-single.html">{{ .Page.Title }}</a></h4>
                       <p class="separator">
-                        To an English person, it will seem like simplified English
+                        {{ .Content | truncate 50 }}
                       </p>
                     </div>
                   </div>
