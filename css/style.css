@@ -578,6 +578,12 @@ p {
   padding: 30px 0;
 }
 
+#services {
+  background: #f7f7f7;
+  position: relative;
+  padding: 30px 0;
+}
+
 .services-block span {
   margin: 10px 0;
   position: relative;
