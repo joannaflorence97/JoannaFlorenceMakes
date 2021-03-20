@@ -1,4 +1,6 @@
 {{ define "main" }}
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&autoLogAppEvents=1&version=v10.0&appId=718201465534646" nonce="I0nSVXD1"></script>
 
 <!-- ======= Breadcrumbs Section ======= -->
 <section class="breadcrumbs">
@@ -57,5 +59,7 @@
 
 </div>
 </section><!-- End Portfolio Details Section -->
+
+<div class="fb-comments" data-href="{{ .Page.Permalink }}" data-width="" data-numposts="5"></div>
 
 {{ end }}
