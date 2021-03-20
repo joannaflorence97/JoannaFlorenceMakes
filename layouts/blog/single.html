@@ -1,4 +1,6 @@
 {{ define "main" }}
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&autoLogAppEvents=1&version=v10.0&appId=718201465534646" nonce="I0nSVXD1"></script>
 
 <!-- ======= Blog Single ======= -->
 <div class="main-content paddsection">
@@ -24,6 +26,13 @@
                   </div>
                 </div>
               </div>
+              <div class="col-md-12">
+                  <div class="comments text-left padDiv mb-30">
+                    <div class="entry-comments">
+                      <div class="fb-comments" data-href="https://www.joannaflorencemakes.com{{ .Page.Permalink }}" data-width="100%" data-numposts="5"></div>
+                    </div>
+                  </div>
+                </div>
             </div>
           </div>
         </div>
