@@ -8,5 +8,3 @@ image: "IMG_7278.jpg"
 ---
 
 This is an ~~example~~ post for my blog.
-
----
