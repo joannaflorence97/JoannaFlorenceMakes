@@ -28,10 +28,14 @@
         <div class="portfolio-details-slider swiper-container">
         <div class="swiper-wrapper align-items-center">
 
-            {{ range .Params.detailImages }}
-                <div class="swiper-slide">
-                    <img src="/img/{{ . }}" alt="">
-                </div>
+            {{ if eq (len .Params.detailImages) 1 }}
+                <img src="/img/{{ index (.Params.detailImages) 0 }}" alt="">
+            {{ else }}
+                {{ range .Params.detailImages }}
+                    <div class="swiper-slide">
+                        <img src="/img/{{ . }}" alt="">
+                    </div>
+                {{ end }}
             {{ end }}
 
         </div>
