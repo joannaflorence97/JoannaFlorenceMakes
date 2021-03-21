@@ -18,4 +18,6 @@ I love recycling fabric and it was great to use this black and tan dachshund as 
 
 I've still got loads of the fabric left so it'll definitely feature again in the future!
 
+Stitches used: Chain stitch, stem stitch, back stitch.
+
 
