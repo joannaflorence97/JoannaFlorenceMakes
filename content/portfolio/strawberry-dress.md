@@ -15,6 +15,8 @@ categories:
 
 When I saw this strawberry covered fabric I immediately thought about making a summery pinafore dress. Then when I saw this pattern for a pinafore dress with large pockets _and_ a pocket on the front I knew I had to make it! 
 
+The pattern used was Kwik Sew K4318.
+
 Techniques I learnt in the process were:
 1. Sewing a lapped zip.
 2. Turning corners neatly on an overlocker.
