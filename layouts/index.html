@@ -39,7 +39,7 @@
     <div class="row portfolio-container">
 
       <!-- {{ .Content }} -->
-      {{ range partial "getfeatured.html" 9 }}
+      {{ range partial "getfeatured.html" 6 }}
         <div class="col-lg-4 col-md-6 portfolio-item filter-{{ .Params.tag }}">
           <a href="{{ .Page.Permalink }}"><div class="portfolio-item-aspect" style="background-image: url(img/{{ .Params.image }});"></div></a>
           <div class="portfolio-info">
