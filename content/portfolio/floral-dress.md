@@ -1,6 +1,5 @@
 ---
-title: "Sewing"
-subtitle: "A dress"
+title: "Floral Asymmetrical Dress"
 date: 2021-03-03T13:42:24Z
 draft: false
 featured: true
