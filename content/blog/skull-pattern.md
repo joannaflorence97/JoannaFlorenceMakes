@@ -12,7 +12,7 @@ I absolutely love gothic-esque embroidery and I was inspired by the beautiful Me
 You can download the pattern below. To fit the pattern in a 5" hoop make sure your printer does not scale the page, but feel free to scale if you would like the pattern to be smaller or larger.
 
 
-[Flowery Skull Pattern PDF Download](https://github.com/joannalaikin97/JoannaFlorenceMakes/static/pdf/skull-pattern.pdf)
+[Flowery Skull Pattern PDF Download](/pdf/skull-pattern.pdf)
 
 Stitches Used:
 1. Satin stitch
@@ -23,6 +23,25 @@ Stitches Used:
 6. Straight stitch.
 
 Colours needed: Black, dark pink, hot pink, pale pink, baby pink, yellow, light green, leaf green, yellow-green.  
+
+Step 1: **The skull**
+* Outline the skull, the teeth and the facial structure highlights using 1 strand of black thread and very small stem stitches.
+* Fill in the eye socket with 2 strands of black thread, horizontally in satin stitch. 
+
+Step 2: **The vines**
+* Complete the vines with 2 strands of light green using stem stitch again. Add the leaves using lazy daisy stitches.
+* Fill in each lazy daisy stitch with one straight stitch using 2 strands of yellow-green. 
+* Add the pink french knots using 6 strands of hot pink.
+
+Step 3: **The large flower**
+* Work from the center outwards to produce the ombré effect on the petals. Start with the lightest pink 
+* Fill the center of the flower with french knots in 3 strands of yellow.
+
+Step 4: **The small flowers**
+* Work again from the center outwards to proudce the ombré effect on the petals. These flowers just use two pink colours. Start with the lightest pink and work long and short stitches from the center to roughly the middle of the flower. To create a more natural feel the long and short stitches should not be precise.
+* Fill the center of the flower with french knots in 3 strands of yellow.
+
+
 
 
 >**Please note**:
