@@ -12,6 +12,4 @@ categories:
   - portfolio
 ---
 
-I had a 3 day weekend and this is how I felt going back to work today.
-
-Pattern by @lemon_made_shop (Celeste Johnston) from her book Freshly Stitched, and printed in this months edition of @loveembroiderymagazine.
+I recently subscribed to Love Embroidery magazine and this beautiful pattern came in issue 10 (January 2021). It's by Celeste Johnston of [@lemon_made_shop](https://www.instagram.com/lemon_made_shop/) and is printed in her book Freshly Stitched.
