@@ -18,10 +18,10 @@ Stitches Used:
 1. Satin stitch
 2. Stem stitch
 3. French knots
-4. Lazy daisy.
+4. Lazy daisy
 5. Long and short stitch / threadpainting.
-6. Straight stitch.
-7. Fishbone stitch.
+6. Straight stitch
+7. Fishbone stitch
 
 Colours needed: Black, dark pink, hot pink, pale pink, baby pink, yellow, light green, leaf green, yellow-green.  
 
