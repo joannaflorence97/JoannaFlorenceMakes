@@ -1483,6 +1483,13 @@ span.contact-large {
   background-size: cover;
 }
 
+.blog-item-aspect {
+  width: 100%;
+  padding-top: calc(100% - 30px); /* 1:1 Aspect Ratio with 15px border */
+  position: relative; /* If you want text inside of it */
+  background-size: cover;
+}
+
 .four-words {
   font-family: 'Playfair Display', serif;
   font-size: xx-large;
