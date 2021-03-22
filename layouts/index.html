@@ -74,7 +74,7 @@
                   <div class="journal-info">
                     <a href="{{ .Page.Permalink }}"><div class="blog-item-aspect" style="background-image: url(img/{{ .Params.image }}); border: 15px solid white;"></div></a>
                     <div class="journal-txt">
-                      <h4><a href="blog-single.html">{{ .Page.Title | upper }}</a></h4>
+                      <h4><a href="{{ .Page.Permalink }}">{{ .Page.Title | upper }}</a></h4>
                       <p class="separator">
                         {{ .Content | plainify | truncate 50 }}
                       </p>
