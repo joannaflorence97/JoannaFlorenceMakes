@@ -1,6 +1,5 @@
 ---
-title: "The sloth"
-subtitle: "Tails from a long weekend"
+title: "A Sleepy Sloth"
 date: 2021-02-23T13:42:24Z
 draft: false
 featured: true
