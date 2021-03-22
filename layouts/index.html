@@ -69,10 +69,10 @@
         <div class="journal-block">
           <div class="row">
             {{ $blog := .Site.Taxonomies.categories.blog  }}
-                {{ range last 3 ($blog.Pages.ByDate) }}
+                {{ range last 3 ($blog.Pages.ByDate.Reverse) }}
                 <div class="col-lg-4 col-md-6">
                   <div class="journal-info">
-                    <a href="{{ .Page.Permalink }}"><div class="portfolio-item-aspect" style="background-image: url(img/{{ .Params.image }}); border: 15px solid white;"></div></a>
+                    <a href="{{ .Page.Permalink }}"><div class="blog-item-aspect" style="background-image: url(img/{{ .Params.image }}); border: 15px solid white;"></div></a>
                     <div class="journal-txt">
                       <h4><a href="blog-single.html">{{ .Page.Title | upper }}</a></h4>
                       <p class="separator">
