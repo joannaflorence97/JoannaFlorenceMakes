@@ -1514,3 +1514,23 @@ span.contact-large {
   padding: 30px;
   box-shadow: 0px 0 30px rgba(75, 74, 74, 0.08);
 }
+
+#portfolio-pagination .pagination {
+  justify-content: center;
+}
+
+.page-item.active .page-link {
+  z-index: 3;
+  color: #fff;
+  background-color: #b8a07e;
+  border-color: #d6bd99;
+}
+
+.page-item .page-link {
+  color: #b8a07e;
+}
+
+.see-more {
+  margin: auto;
+  display: table;
+}
