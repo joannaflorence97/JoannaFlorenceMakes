@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+<!-- ======= Portfolio Section ======= -->
+<div id="portfolio" class="paddsection">
+
+  <div class="container">
+    <div class="section-title text-center">
+      <h2>My Makes</h2>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="row portfolio-container">
+
+      <!-- {{ .Content }} -->
+      {{ range (.Paginator 6).Pages }}
+        <div class="col-lg-4 col-md-6 portfolio-item filter-featured">
+          <a href="{{ .Page.Permalink }}"><div class="portfolio-item-aspect" style="background-image: url(/img/{{ .Params.image }});"></div></a>
+          <div class="portfolio-info">
+              <h4>{{ .Params.title }}</h4>
+              <p>{{ .Params.subtitle }}</p>
+              <a href="img/{{ .Params.image }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="{{ .Params.title }}"><i class="bx bx-plus"></i></a>
+              <a href="{{ .Page.Permalink }}" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+          </div>
+        </div>
+      {{ end }}
+
+    </div>
+
+  </div>
+  
+  <div class="container" id="portfolio-pagination">
+    {{ template "_internal/pagination.html" . }}
+  </div>
+  
+</div><!-- End Portfolio Section -->
+
+{{ end }}
