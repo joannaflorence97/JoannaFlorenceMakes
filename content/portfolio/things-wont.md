@@ -2,7 +2,7 @@
 title: "My 2020 Mantra"
 date: 2021-02-09T13:42:24Z
 draft: false
-featured: true
+featured: false
 image: "things1.jpg"
 detailImages:
   - "things3.jpg"

@@ -3,7 +3,7 @@ title: "Green Day Album Art"
 subtitle: "American Idiot"
 date: 2021-01-31T13:42:24Z
 draft: false
-featured: true
+featured: false
 image: "green-day1.jpg"
 detailImages:
   - "green-day1.jpg"

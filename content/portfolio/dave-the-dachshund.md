@@ -2,7 +2,7 @@
 title: "Dave the Dachshund"
 date: 2020-12-29T13:42:24Z
 draft: false
-featured: false
+featured: true
 image: "dave1.jpg"
 detailImages:
   - "dave1.jpg"
