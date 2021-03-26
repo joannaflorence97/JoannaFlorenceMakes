@@ -1393,6 +1393,11 @@ blockquote {
     float: none;
     display: inline-block;
   }
+
+  /* Contact text */
+  .contact-block1 {
+    font-size: 0.8em;
+  }
 }
 
 /** Width between 320px to 0
