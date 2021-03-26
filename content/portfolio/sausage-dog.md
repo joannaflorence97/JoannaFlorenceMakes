@@ -2,7 +2,7 @@
 title: "I love my dachshund!"
 date: 2021-03-19T13:42:24Z
 draft: false
-featured: true
+featured: false
 image: "dachshund1.jpg"
 detailImages:
   - "dachshund1.jpg"

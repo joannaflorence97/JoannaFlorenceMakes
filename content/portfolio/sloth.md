@@ -2,7 +2,7 @@
 title: "A Sleepy Sloth"
 date: 2021-02-23T13:42:24Z
 draft: false
-featured: true
+featured: false
 image: "IMG_8669.jpg"
 detailImages:
   - "IMG_8669.jpg"
