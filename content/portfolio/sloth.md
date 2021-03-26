@@ -3,9 +3,9 @@ title: "A Sleepy Sloth"
 date: 2021-02-23T13:42:24Z
 draft: false
 featured: false
-image: "IMG_8669.jpg"
+image: "sloth1.jpg"
 detailImages:
-  - "IMG_8669.jpg"
+  - "sloth1.jpg"
 tag: "embroidery"
 categories:
   - portfolio
