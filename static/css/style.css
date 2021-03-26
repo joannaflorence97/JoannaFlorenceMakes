@@ -1478,6 +1478,11 @@ blockquote {
     display: inline-block;
     margin-right: 0;
   }
+
+  /* Make header smaller */
+  h1.logo.title a {
+    font-size: 0.8em;
+  }
 }
 
 span.contact-large {
