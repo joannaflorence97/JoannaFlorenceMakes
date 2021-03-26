@@ -1,15 +1,19 @@
 ---
-title: "She's a rebel"
-subtitle: "Green Day Album Art"
+title: "Green Day Album Art"
+subtitle: "American Idiot"
 date: 2021-01-31T13:42:24Z
 draft: false
 featured: true
-image: "IMG_0004.jpg"
+image: "green-day1.jpg"
 detailImages:
-  - "IMG_0004.jpg"
+  - "green-day1.jpg"
+  - "green-day2.jpg"
+  - "green-day3.jpg"
 tag: "embroidery"
 categories:
   - portfolio
 ---
 
-"She’s a symbol of resistance, and she’s holding on my heart like a hand grenade"
+I've always been enamoured with this album artwork and I saw it as a good design to practice my satin stitch.
+
+I restarted this piece three times. Originally I drew the design onto some black fabric but found it difficult to see the design accurately and so switched to calico and coloured the black background with a Sharpie. I kind of love the rusticity of it and I definitely wouldn't have got that with a plain black fabric.
