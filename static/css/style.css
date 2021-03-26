@@ -1398,6 +1398,12 @@ blockquote {
   .contact-block1 {
     font-size: 0.8em;
   }
+
+  /* Make header smaller */
+  h1.logo.title a {
+    font-size: 0.9em;
+  }
+
 }
 
 /** Width between 320px to 0
