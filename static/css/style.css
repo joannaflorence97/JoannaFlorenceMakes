@@ -1393,6 +1393,17 @@ blockquote {
     float: none;
     display: inline-block;
   }
+
+  /* Contact text */
+  .contact-block1 {
+    font-size: 0.8em;
+  }
+
+  /* Make header smaller */
+  h1.logo.title a {
+    font-size: 0.9em;
+  }
+
 }
 
 /** Width between 320px to 0
@@ -1466,6 +1477,11 @@ blockquote {
   .entry-comments-body span {
     display: inline-block;
     margin-right: 0;
+  }
+
+  /* Make header smaller */
+  h1.logo.title a {
+    font-size: 0.8em;
   }
 }
 
