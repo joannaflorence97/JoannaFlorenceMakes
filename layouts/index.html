@@ -32,7 +32,7 @@
           <li data-filter=".filter-featured" class="filter-active">Featured</li>
           <li data-filter=".filter-embroidery">Embroidery</li>
           <li data-filter=".filter-sewing">Sewing</li>
-          <!-- <li data-filter=".filter-masks">Masks</li> -->
+          <li data-filter=".filter-masks">Masks</li>
         </ul>
       </div>
     </div>
@@ -76,7 +76,7 @@
         </div>
       {{ end }}
 
-      <!-- {{ range .Params.shopImages }}
+      {{ range .Params.shopImages }}
         <div class="col-lg-4 col-md-6 portfolio-item filter-masks">
           <a href="{{ .link }}" target="_blank"><div class="portfolio-item-aspect" style="background-image: url(/img/masks/{{ .image }});"></div></a>
           <div class="portfolio-info">
@@ -86,7 +86,7 @@
               <a href="{{ .link }}" class="details-link" title="View Item" target="_blank"><i class="bx bx-link"></i></a>
           </div>
         </div>
-      {{ end }} -->
+      {{ end }}
 
     </div>
 
