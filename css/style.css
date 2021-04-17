@@ -1549,3 +1549,11 @@ span.contact-large {
   margin: auto;
   display: table;
 }
+
+.blog-image-framed {
+  display: block;
+  margin: 0 auto;
+  background-color: #f7f7f7;
+  width: 80%;
+  padding: 10px;
+}
