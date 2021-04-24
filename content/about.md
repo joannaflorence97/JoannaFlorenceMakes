@@ -12,7 +12,7 @@ I've always loved crafts and grew up enjoying knitting and cross-stitch. I bough
 
 I taught myself to embroider throughout the first 2020 UK lockdown during the coronavirus pandemic. There is now nothing I find more therapeutic than sitting under a blanket on the sofa with an embroidery hoop.
 
-On this website I post information about my latest sewing and embroidery makes, patterns, tutorials and more! For updates, follow my Instagram account <a href="https://www.instagram.com/joannaflorencemakes">@joannaflorencemakes</a>
+On this website I post information about my latest sewing and embroidery makes, patterns, reviews, tutorials and more! For updates, follow my Instagram account <a href="https://www.instagram.com/joannaflorencemakes">@joannaflorencemakes</a>
 
 
 
