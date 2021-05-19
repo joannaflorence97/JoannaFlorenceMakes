@@ -22,8 +22,3 @@ The fabric used is from [Pound Fabrics](https://poundfabrics.co.uk/) and is a pl
 
 Overall, a lovely and quick pattern. I've just ordered some more stretch fabric with this pattern in mind!
 
-
-<!-- <br>
-<h3>Rating: <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></h3>
-<br>
-<h3>Suggested level: Beginner</h3> -->
