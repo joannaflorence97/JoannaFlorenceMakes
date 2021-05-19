@@ -6,10 +6,10 @@ categories:
   - blog
 image: "tabitha-1.JPG"
 ---
-<br>
+<!-- <br>
 <h3>Rating: <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></h3>
 <br>
-<h3>Suggested level: Beginner</h3>
+<h3>Suggested level: Beginner</h3> -->
 
 I\'ve been wanting to try out a [Tilly and the Buttons](https://www.instagram.com/tillybuttons) pattern for a while now. I'm constantly looking at their Instagram page, and loving how aesthetically pleasing it is! I love how they cater to all skill levels and I refer to their blog and Youtube channel frequently because of how clearly everything is explained.
 
