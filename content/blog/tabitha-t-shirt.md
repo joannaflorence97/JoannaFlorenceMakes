@@ -17,7 +17,7 @@ The book also shows you how you can customise your T-shirt further by adding cuf
 
 The fabric used is from [Pound Fabrics](https://poundfabrics.co.uk/) and is a plain black cotton jersey. The neckband used was cut from the main fabric of a secondhand top that didn't fit me properly. The trickiest part of this pattern was adding in the neckband, which took 3 attempts. The neckband was such stretchy fabric so I had to keep chopping bits off of it to make it fit properly. 
 
-{{< blogimage src="/img/tabitha-2.jpg" >}}
+{{< blogimage src="/img/tabitha-2.jpg" caption="I used an overlocker to complete all the seams.">}}
 
 
 Overall, a lovely and quick pattern. I've just ordered some more stretch fabric with this pattern in mind!
