@@ -1556,6 +1556,17 @@ span.contact-large {
   background-color: #f7f7f7;
   width: 80%;
   padding: 10px;
+  text-align: center;
+}
+
+.blog-image-framed img {
+  /* display: block;
+  margin: 0 auto;
+  background-color: #f7f7f7;
+  width: 80%;
+  padding: 10px; */
+  width: 100%;
+  padding: 10px;
 }
 
 .blog-image-half {

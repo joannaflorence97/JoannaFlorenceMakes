@@ -1,5 +1,10 @@
 {{ if .IsNamedParams }}
-<img class="blog-image-framed" src="{{.Get "src" }}" alt="">
+<div class="blog-image-framed">
+    <img src="{{.Get "src" }}" alt="">
+    <span class="caption">{{.Get "caption" }}</span>
+</div>
 {{ else }}
-<img class="blog-image-framed" src="{{.Get 0}}" alt="">
+<div class="blog-image-framed">
+    <img src="{{.Get 0}}" alt="">
+</div>
 {{ end }}
