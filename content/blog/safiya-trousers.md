@@ -17,5 +17,8 @@ There were some extra instructions if you wanted to add pockets which were easy 
 
 After I'd finished, my elastic kept shifting around my waist which was very irritating and looked bad. The pattern suggests sewing a line of zig-zag stitches through the centre of the elastic if this happens but I didn't want that to be visible all the way around. I opted for a couple of 2-3cm zig-zags on the left and right side of the back. This fixed the problem! Also, due to the elastic the pockets kind of awkwardly shift back but they are still very much usable.
 
+I just have to add that this was my first time succeeding at pattern matching and I'm very proud of myself! <i class="bi bi-emoji-smile"></i>
+
+
 Overall, the trousers turned out great and I can see myself wearing them a lot this summer. They are super comfy as well as stylish and are just the kind of thing I needed for hot days working from home.
 
