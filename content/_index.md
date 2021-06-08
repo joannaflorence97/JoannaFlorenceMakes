@@ -3,7 +3,7 @@ title: "index"
 date: 2021-02-23T13:42:24Z
 draft: false
 shopImages:
-  - image: "pikachu.jpg"
+  - image: "pikachu-2021-square.jpg"
     title: Pikachu Pokemon Yellow Themed Face Mask
     description: Cotton Washable Face Mask
     link: https://www.etsy.com/uk/listing/811581359/pikachu-pokemon-yellow-themed-cotton
