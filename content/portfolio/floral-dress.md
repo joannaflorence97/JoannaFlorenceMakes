@@ -2,7 +2,7 @@
 title: "Floral Asymmetrical Dress"
 date: 2021-03-03T13:42:24Z
 draft: false
-featured: true
+featured: false
 image: "floral-dress-2.jpg"
 detailImages:
   - "floral-dress-1.jpg"
