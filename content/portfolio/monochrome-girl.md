@@ -3,7 +3,7 @@ title: "Monochrome Blue"
 subtitle: "Stitch this in your style: March"
 date: 2021-03-07T13:42:24Z
 draft: false
-featured: false
+featured: true
 image: "monochrome1.jpg"
 detailImages:
   - "monochrome1.jpg"
