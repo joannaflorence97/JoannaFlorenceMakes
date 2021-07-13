@@ -1,6 +1,6 @@
 ---
 title: "Sewing Pattern Review: Joni by Tilly and the Buttons"
-date: 2021-06-12T11:42:24Z
+date: 2021-06-13T11:42:24Z
 draft: false
 categories:
   - blog
