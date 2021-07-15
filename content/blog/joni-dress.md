@@ -7,7 +7,7 @@ categories:
 image: "joni1.JPG"
 ---
 
-The Joni pattern is by [Tilly and the Buttons](https://www.instagram.com/tillybuttons) and features in the book <i>Stretch!</i>.
+The Joni pattern is by [Tilly and the Buttons](https://www.instagram.com/tillybuttons) and features in the book _Stretch!_.
 
 I am IN LOVE with this dress. It features a flattering empire waistline with a beautiful twist on the front as well as a full circle skirt. The pattern also comes with a choice of sleeves to choose from: three-quarter length, elbow-length, flared or even ruched. 
 
