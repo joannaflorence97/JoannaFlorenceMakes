@@ -117,7 +117,11 @@
                     <div class="journal-txt">
                       <h4><a href="{{ .Page.Permalink }}">{{ .Page.Title | upper }}</a></h4>
                       <p class="separator">
-                        {{ .Content | truncate 50 }}
+                        {{ with .Param "blurb" }}
+                          {{ . | truncate 50 }}
+                        {{ else }}
+                          {{ .Content | truncate 50 }}
+                        {{ end }}
                       </p>
                     </div>
                   </div>
