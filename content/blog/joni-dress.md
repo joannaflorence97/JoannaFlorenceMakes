@@ -1,5 +1,6 @@
 ---
 title: "Sewing Pattern Review: Joni by Tilly and the Buttons"
+# blurb: "I am IN LOVE with this dress. It features a flattering empire waistline"
 date: 2021-06-13T11:42:24Z
 draft: false
 categories:
@@ -8,6 +9,8 @@ image: "joni1.JPG"
 ---
 
 The Joni pattern is by [Tilly and the Buttons](https://www.instagram.com/tillybuttons) and features in the book _Stretch!_.
+
+<!-- {{< rating 3 >}} -->
 
 I am IN LOVE with this dress. It features a flattering empire waistline with a beautiful twist on the front as well as a full circle skirt. The pattern also comes with a choice of sleeves to choose from: three-quarter length, elbow-length, flared or even ruched. 
 
