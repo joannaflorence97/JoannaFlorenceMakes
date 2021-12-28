@@ -1,7 +1,7 @@
 ---
 title: "Christmas 2021 Dress"
 subtitle: "Pattern by Tilly and the Buttons"
-date: 2021-04-17T10:42:24Z
+date: 2021-12-25T10:42:24Z
 draft: false
 featured: true
 image: "christmas-dress-2021.jpg"
