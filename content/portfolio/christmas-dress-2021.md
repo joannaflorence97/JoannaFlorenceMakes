@@ -8,6 +8,7 @@ image: "christmas-dress-2021.jpg"
 detailImages:
   - "christmas-dress-2021.jpg"
   - "christmas-dress-2021-2.jpg"
+  - "christmas-dress-2021-3.jpg"
 tag: "sewing"
 categories:
   - portfolio
