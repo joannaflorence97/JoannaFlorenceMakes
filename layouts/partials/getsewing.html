@@ -1,1 +1,1 @@
-{{ return first . (where site.RegularPages ".Params.tag" "sewing") }}
+{{ return first . (where (where site.RegularPages ".Params.tag" "sewing") ".Params.featured" true) }}
