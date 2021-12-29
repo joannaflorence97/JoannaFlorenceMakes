@@ -50,14 +50,16 @@
             <li><strong>Category</strong>: {{ .Params.tag | title }}</li>
             <li><strong>Project date</strong>: {{ .PublishDate.Format "January 2, 2006" }}</li>
         </ul>
-        <h3>Share</h3>
-        <div class="sharethis-inline-share-buttons"></div>
         </div>
         <div class="portfolio-info" style="margin-top: 30px;">
         <h3>Details</h3>
         <p>
             {{ .Content }}
         </p>
+        </div>
+        <div class="portfolio-info" style="margin-top: 30px;">
+        <h3>Share</h3>
+        <div class="sharethis-inline-share-buttons"></div>
         </div>
     </div>
 
