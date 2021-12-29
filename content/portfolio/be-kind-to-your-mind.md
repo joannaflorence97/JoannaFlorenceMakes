@@ -3,6 +3,7 @@ title: "Be Kind to Your Mind"
 subtitle: "An original design by Joanna"
 date: 2021-04-10T13:42:24Z
 draft: false
+featured: true
 image: "be-kind-mind4.jpg"
 detailImages:
   - "be-kind-mind4.jpg"
