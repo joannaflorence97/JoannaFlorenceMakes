@@ -3,7 +3,7 @@ title: "Brighter Days Ahead Rainbow"
 subtitle: "Design by Niamh Wimperis"
 date: 2021-06-01T13:42:24Z
 draft: false
-featured: false
+featured: true
 image: "brighter-days-ahead.JPG"
 detailImages:
   - "brighter-days-ahead.JPG"

@@ -3,7 +3,7 @@ title: "Safiya Trousers"
 subtitle: "Pattern by Tilly and the Buttons (from \"Make it Simple\")"
 date: 2021-06-01T10:42:24Z
 draft: false
-featured: true
+featured: false
 image: "safiya.JPG"
 detailImages:
   - "safiya.JPG"
