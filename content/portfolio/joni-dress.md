@@ -3,7 +3,7 @@ title: "Joni Dress"
 subtitle: "Pattern by Tilly and the Buttons"
 date: 2021-08-09T10:42:24Z
 draft: false
-featured: true
+featured: false
 image: "joni2.JPG"
 detailImages:
   - "joni2.JPG"
