@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en-gb"
 title = "JoannaFlorenceMakes"
+enableEmoji = true
 [markup]
   [markup.goldmark.renderer]
     unsafe=true
