@@ -4,6 +4,12 @@ date: 2021-02-23T13:42:24Z
 draft: false
 layout: about
 ---
+
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2155859976545968"
+     crossorigin="anonymous"></script>
+
+</head>
 <p class="p-heading">Hi there!</p>
 
 <p class="separator">I'm Joanna Florence, a twenty-five year old from Hertfordshire in the UK. Most days you can find me making something with the help of my assistant, my miniature dachshund Charlie.
