@@ -13,7 +13,7 @@ layout: about
 
 <p class="p-heading">Hi there!</p>
 
-<p class="separator">Hi, thanks for stopping by! I'm Joanna Florence and I live in Bedfordshire within the UK. Most days you can find me making something with the help of my assistant, my miniature dachshund Charlie.
+<p class="separator">...Thanks for stopping by! I'm Joanna Florence and I live in Bedfordshire within the UK. Most days you can find me making something with the help of my assistant, my miniature dachshund Charlie.
 
 I've always loved crafts and grew up enjoying knitting and cross-stitch. I bought my first sewing machine at the age of 17 (it was a mini John Lewis machine in bubblegum pink!) and I've been hooked on sewing ever since. I am largely self-taught, having learnt a lot through the wonderful online sewing community.
 
