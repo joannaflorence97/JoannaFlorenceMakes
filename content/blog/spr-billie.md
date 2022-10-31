@@ -8,6 +8,7 @@ categories:
 image: "billie1.jpg"
 ---
 
+
 This pattern is Billie by [Tilly and the Buttons](https://www.instagram.com/tillybuttons) and can be used to make a jumper as well as a jumper dress, with either regular or balloon sleeves. I chose to make the dress and chose the regular sleeve option! 
 
 I love this dress, it is so perfect and comfortable, just like I wanted! It a great ultimate work from home dress and looks much more professional than PJs! I love it paired with leggings for ultimate comfort. For a less casual look I pair this dress with tights and combat books as pictured. Did I mention it has pockets!? They're a great size and fit my big phone in them! They don't make the dress look super bulky like some other patterns do. 

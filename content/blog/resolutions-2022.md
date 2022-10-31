@@ -9,7 +9,6 @@ image: "resolutions.jpg"
 
 ---
 
-
 Happy New Year! :star2:
 
 The beginning of a new year is a great time to reflect on how we'd like the next 365 days (or so) to go for ourselves; what we'd like to achieve and ways to reach these goals! I've decided this year to set myself a few sewing resolutions (reSEWlutions if you will!) so I can spend more time creating things that I love and getting the most out of my hobby!
