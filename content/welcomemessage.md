@@ -5,6 +5,6 @@ draft: false
 image: "/img/jo.jpg" 
 ---
 
-<span class="four-words">DESIGN . EMBROIDERY . SEWING . CRAFTS</span>
+<!-- <span class="four-words">DESIGN . EMBROIDERY . SEWING . CRAFTS</span> -->
 
-<span class="intro-handwritten">by Joanna Florence</span>
+<span class="intro-handwritten">This is where I should write a fantastic intro</span>
