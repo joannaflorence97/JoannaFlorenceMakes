@@ -840,6 +840,7 @@ p {
 #contact {
   height: auto;
   width: 100%;
+  background: #f7f7f7;
 }
 
 .contact-details {
@@ -1062,7 +1063,7 @@ blockquote {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f7f7;
+  background: #fff;
   padding-top: 50px;
   padding-bottom: 50px;
 }
