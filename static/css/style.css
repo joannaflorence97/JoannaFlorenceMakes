@@ -206,7 +206,7 @@ p {
 }
 
 #header .logo a {
-  color: #5203fc;
+  color: #898989;
 }
 
 #header .logo img {
@@ -261,7 +261,7 @@ p {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #5203fc;
+  color: #b8a07e;
 }
 
 .navbar .dropdown ul {
@@ -1095,7 +1095,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #5203fc;
+  color: #b8a07e;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1518,7 +1518,7 @@ span.contact-large {
   font-family: "Dancing Script", sans-serif;
   font-style: italic;
   font-size: 2.5em;
-  color: #5203fc;
+  color: #b7a17e;
 }
 
 .img-header {
